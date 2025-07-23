@@ -19,7 +19,7 @@ Payment will be charged to your Apple ID account upon confirmation of purchase. 
 
 You can manage and cancel your subscription at any time by going to your Apple ID account settings after purchase.
 
-We do not offer refunds for unused portions of the subscription period.
+We do not offer refunds.
 
 3. Privacy
 
