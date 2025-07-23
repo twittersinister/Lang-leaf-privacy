@@ -1,6 +1,6 @@
 # Privacy Policy for Lang Leaf
 
-**Effective date:** June 15, 2025
+**Effective date:** July 23, 2025
 
 Lang Leaf does not collect, store, or share any personal information from users.
 
@@ -11,6 +11,11 @@ If you contact us directly (e.g., via support email), we may receive your email 
 If this policy ever changes, we will update this page.
 
 ---
+Subscription name: Lang Leaf Subscriptions
+Price: $4.99 USD
+Length: 1 month, auto renewing
+
+
 
 ### Contact Us
 
