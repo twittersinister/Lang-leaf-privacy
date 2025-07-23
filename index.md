@@ -12,7 +12,9 @@ If this policy ever changes, we will update this page.
 
 ---
 Subscription name: Lang Leaf Subscriptions
+
 Price: $4.99 USD
+
 Length: 1 month, auto renewing
 
 
