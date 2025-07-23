@@ -10,15 +10,20 @@ Lang Leaf provides language learning content to help you improve your skills. Yo
 
 2. Subscriptions and Payments
 
-Our app offers optional auto-renewable subscriptions that grant access to premium content, including additional words and features.
+Lang Leaf offers an optional auto-renewable subscription titled “Lang Leaf Subscription.”
 
-Subscription fees will be charged to your Apple ID account upon confirmation of purchase.
-Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
-You can manage and cancel subscriptions via your Apple ID settings.
-No refunds are provided for any unused portion of a subscription period.
+Length of subscription: 1 month
+Price: $4.99 USD per month
+What you get: Access to premium language learning content, including additional words and features released monthly.
+Payment will be charged to your Apple ID account upon confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+
+You can manage and cancel your subscription at any time by going to your Apple ID account settings after purchase.
+
+We do not offer refunds for unused portions of the subscription period.
+
 3. Privacy
 
-Your use of Lang Leaf is also governed by our Privacy Policy, which explains how we collect, use, and protect your data. Please review our Privacy Policy here: [Privacy Policy URL].
+Your use of Lang Leaf is also governed by our Privacy Policy, which explains how we collect, use, and protect your data. Please review our Privacy Policy here: https://twittersinister.github.io/Lang-leaf-privacy/
 
 4. Intellectual Property
 
